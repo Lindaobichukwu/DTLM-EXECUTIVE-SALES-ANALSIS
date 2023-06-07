@@ -31,4 +31,4 @@ The top 2 revenue products in January was **Vanities and **Collectibles**.
 
 The dashboard helps create more Insights on the sales data with the use of Slicers and Timeline.
 
-![]()
+![](https://github.com/Lindaobichukwu/DTLM-EXECUTIVE-SALES-ANALSIS/blob/main/Capture25.PNG)
