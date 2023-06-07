@@ -1,5 +1,5 @@
 #                                            DTLM EXECUTIVE SALES ANALYSIS
-## This is a group project, that involved three team members. I, Obichukwu Linda, Samuel Oyetoran and Makrop Dangok. It is a DTLM Executive Sales Report on 47 products which are sub divided into 10 categories. The product was distributed by 4 sales channels in the United States. This project consists of four worksheets which are The sales tables, sales team, products and store location.
+## This is a group project, that involves three team members. I, Obichukwu Linda, Samuel Oyetoran and Makrop Dangok. It is a DTLM Executive Sales Report on 47 products which were sub divided into 10 categories and the products distributed by 4 sales channels in the United States. The project consists of four worksheets which are The sales tables, sales team, products and store location.
 
 **Data Analysis and Visualization using Microsoft Excel**
 
