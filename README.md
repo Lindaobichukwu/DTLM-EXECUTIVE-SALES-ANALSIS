@@ -3,7 +3,7 @@
 
 **Data Analysis and Visualization using Microsoft Excel**
 
-**We studied the data, established relationships, cleaned it and created a new attributes column to enable us analyze and visualize the data effectively**.
+**We studied the data, established relationships, cleaned it and created new attributes columns to enable us analyze and visualize the data effectively**.
 
 # Some of the questions answered include:
 ## 1. Top 2 revenue products in January?
